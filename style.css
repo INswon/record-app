@@ -1,0 +1,17 @@
+.inputTitle{
+    padding: 7px 15px;
+    border-radius: 100px;
+    outline: none;
+    border: 1px solid #555;
+}
+.submitBtn{
+    border-radius: 100px;
+    border: none;
+    background-color: #4169E1;
+    color: #fff;
+    padding: 5px 15px;
+}
+.submitBtn:hover{
+    cursor: pointer;
+    opacity: .8;
+}
